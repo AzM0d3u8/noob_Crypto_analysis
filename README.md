@@ -70,13 +70,13 @@ set SMTP_HOST=smtp.gmail.com
 set SMTP_PORT=587
 set SMTP_USER=your_email@example.com
 set SMTP_PASSWORD=your_app_password
-set DEFAULT_EMAIL_RECIPIENT=sadmansakib087@gmail.com
+set DEFAULT_EMAIL_RECIPIENT=johndoe087@gmail.com
 ```
 
 Optional safety allowlist (recommended in production):
 
 ```bash
-set ALLOWED_RECIPIENTS=sadmansakib087@gmail.com
+set ALLOWED_RECIPIENTS=johndoe087@gmail.com
 ```
 
 Then run:
