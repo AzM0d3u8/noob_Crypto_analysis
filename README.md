@@ -101,8 +101,8 @@ docker run -d -p 8501:8501 ^
   -e SMTP_PORT=587 ^
   -e SMTP_USER=your_email@gmail.com ^
   -e SMTP_PASSWORD=your_app_password ^
-  -e DEFAULT_EMAIL_RECIPIENT=sadmansakib087@gmail.com ^
-  -e ALLOWED_RECIPIENTS=sadmansakib087@gmail.com ^
+  -e DEFAULT_EMAIL_RECIPIENT=johndoe7@gmail.com ^
+  -e ALLOWED_RECIPIENTS=fsghhjtfb087@gmail.com ^
   --name crypto-backtest-dashboard ^
   crypto-backtest-dashboard
 ```
